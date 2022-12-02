@@ -17,7 +17,7 @@ This is what it looks like in Discord:
 
 
 🚫 [@Silva]() **DID NOT COMMIT**🚫  
-✅ [@Ruanzin Riven]() **DID COMMIT**    ✅
+✅ [@Ruan]() **DID COMMIT**    ✅
 
 
 ## <center>Why does this project exist?</center>
